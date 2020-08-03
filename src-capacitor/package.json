@@ -1,0 +1,12 @@
+{
+  "name": "quasarprog",
+  "version": "0.0.1",
+  "description": "A Quasar Framework app",
+  "author": "Edison Ocampo <edisonocampo.eo@gmail.com>",
+  "private": true,
+  "dependencies": {
+    "@capacitor/android": "^2.0.2",
+    "@capacitor/cli": "^1.0.0",
+    "@capacitor/core": "^1.0.0"
+  }
+}

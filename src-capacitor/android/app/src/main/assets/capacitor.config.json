@@ -1,0 +1,10 @@
+{
+  "appId": "org.cordova.quasar.app",
+  "appName": "quasarprog",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "server": {
+    "url": "http://192.168.254.104:8080"
+  }
+}
